@@ -1,2 +1,3 @@
-# skillfactory-devops
-# asdasd
+# Репозиторий для заданий курса Skillfactory: DevOps
+
+# Техническое задание
