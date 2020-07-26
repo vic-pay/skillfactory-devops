@@ -28,3 +28,4 @@
 # SWOT анализ
 
 # Алгоритм работы CI/CD системы 
+<img src="./ci-cd-algorithm.png">
